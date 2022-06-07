@@ -1,0 +1,16 @@
+ID: Bug_1
+Summary: //Cart// The coupon code CYBER21 isn't applied while 2 books are added into the cart
+STR: 
+  1. Open the site https://www.betterworldbooks.com
+  2. Add 3 items to the cart (at least 2 items must be by BetterWorldBooks seller)
+  3. Open the Cart
+  4. Apply the coupon code CYBER21
+Actual result: The coupon code CYBER21 isn't applied while 2 books are added into the cart
+Expected result: The coupon code CYBER21 is applied
+Environment: System Version: macOS 10.15.7 (19H2), Google Chrome Version 99.0.4844.84 (Official Build) (x86_64)
+Severity: Major
+Priority: Medium
+Status: New
+Author: Daria Filko
+Assigned To: Developer Ukrainian Kozak
+Attachment: Attachment 1, Attachment 2
