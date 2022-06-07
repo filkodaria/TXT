@@ -1,4 +1,4 @@
-ID: Bug_1
+ID: Bug_111
 Summary: //Cart// The coupon code CYBER21 isn't applied while 2 books are added into the cart
 STR: 
   1. Open the site https://www.betterworldbooks.com
