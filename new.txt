@@ -1,0 +1,4 @@
+Name: Filko Daria
+Age: 34
+Pets Number: 1
+Expected Salary: 600$
