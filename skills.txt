@@ -1,0 +1,17 @@
+The technical skills will be learnt during the course:
+   -Bash 
+   -Git
+   -Postman 
+   -SQL
+   -HTTP request/response
+   -Client Server Architecture
+   -Charles 
+   -Fiddler 
+   -XCode
+   -Android Studio
+   -Devtools for web browsers
+   -Jmeter
+   -Visual Studio Code
+   -DBeaver
+   -Mobile testing
+   -Testing Theory
