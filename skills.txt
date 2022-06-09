@@ -1,4 +1,4 @@
-The technical skills will be learnt during the course:
+The technical skills:
    -Bash 
    -Git
    -Postman 
